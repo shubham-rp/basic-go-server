@@ -12,7 +12,6 @@ It's a basic web server with 3 routes:
 
 ```
 go run main.go
-
 ```
 
 ### This repo is based on Youtube Tutorial by Akhil Sharma
